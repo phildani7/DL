@@ -63,6 +63,8 @@ unzip -q vgg16.zip
 unzip -q utils.zip
 unzip dogscats.zip
 
+# Use path = "data/dogscats/sample/" the first time you run.
+
 # While executing Lesson-1 if you get a memory error, try reducing the batch size to 2 or 4.
 Memory Error:
 Reduce Batch_size=2/4 
